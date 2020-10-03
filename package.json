@@ -1,0 +1,26 @@
+{
+  "name": "potential-enigma",
+  "version": "1.0.0",
+  "description": "README generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/potential-enigma.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Curtis Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/potential-enigma/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/potential-enigma#readme"
+}
